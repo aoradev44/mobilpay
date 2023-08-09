@@ -1,17 +1,17 @@
 {
-    "name": "adrianbarbos/mobilpay",
-    "description": "Laravel 5 mobilpay wrapper around omnipay with omnipay-mobilpay driver",
+    "name": "spondonit/mobilpay",
+    "description": "Laravel 10 mobilpay wrapper around omnipay with omnipay-mobilpay driver",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "adrianbarbos",
-            "email": "ady.barbos@gmail.com"
+            "name": "spondonit",
+            "email": "aoradev44@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "5.* || 6.* || 7.* || 8.* || 9.*",
+        "illuminate/support": "5.* || 6.* || 7.* || 8.* || 9.* || 10.*",
         "omnipay/common": "~3.0",
         "adrianbarbos/omnipay-mobilpay": "~1.2.1"
     },
