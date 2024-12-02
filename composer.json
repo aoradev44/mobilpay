@@ -1,6 +1,6 @@
 {
     "name": "spondonit/mobilpay",
-    "description": "Laravel 10 mobilpay wrapper around omnipay with omnipay-mobilpay driver",
+    "description": "Laravel mobilpay wrapper around omnipay with omnipay-mobilpay driver",
     "type": "library",
     "license": "MIT",
     "authors": [
